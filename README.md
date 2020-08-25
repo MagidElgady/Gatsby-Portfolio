@@ -22,6 +22,9 @@ Your site should be open localhost:8000
 <br />
 
 # CREDITS
-Original Gatsby site created by Leko Arts
+Original Gatsby site created by LekoArts
 <br />
 Link to Gatsby: https://www.gatsbyjs.com/starters/LekoArts/gatsby-starter-portfolio-cara/
+<br />
+Based on following YouTube tutorial:
+https://www.youtube.com/watch?v=TXAkP4WQVXY
